@@ -2,4 +2,4 @@
 
 diesel migration run
 
-cargo run
+cargo run --release
